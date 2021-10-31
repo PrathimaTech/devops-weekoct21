@@ -1,2 +1,3 @@
 second commit
 for testing git checkout
+for testing git reset head in staging area
