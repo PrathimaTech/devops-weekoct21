@@ -1,2 +1,0 @@
-Hi How are you?
-this line is for testing git merge
