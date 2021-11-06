@@ -1,4 +1,10 @@
 this is for merge testing
+<<<<<<< HEAD
 added second line
 added third line
 added fourth line
+=======
+welcome to banglore
+added second line
+added third line
+>>>>>>> dev_3
