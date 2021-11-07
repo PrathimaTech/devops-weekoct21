@@ -1,3 +1,4 @@
 welcome to bangalore
 first commit
 second commit
+mixed reset commit
