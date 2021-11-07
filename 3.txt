@@ -1,5 +1,0 @@
-This is for git cherry pick
-<<<<<<< HEAD
-we can add 3.txt file in master branch
-=======
->>>>>>> dev_3
